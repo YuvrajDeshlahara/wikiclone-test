@@ -1,9 +1,9 @@
-#sql{
-    background-color: blue;
-    color: antiquewhite;
-}
-#pink{
-    color: rgb(141, 249, 150);
+#element{
+    background-color: rgb(174, 229, 239);
+    color:black;
+    width: fit-content; 
+   
+   
 }
 
 
