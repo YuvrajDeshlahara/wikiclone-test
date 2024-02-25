@@ -1,7 +1,7 @@
 #element{
     background-color: rgb(174, 229, 239);
     color:black;
-    max-width: 4in;
+    width: fit-content; 
    
    
 }
