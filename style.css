@@ -1,13 +1,14 @@
 #element{
     background-color: rgb(253, 209, 250);
-    color:black;
+    color:black; 
     width: fit-content; 
     flex-grow: initial;
    border-radius: 5%;
+   display: inline-flex;
 }
 .submit{
     background-color: rgb(130, 220, 232);
-}
+} 
 
 
 
